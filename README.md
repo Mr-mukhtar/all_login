@@ -1,6 +1,4 @@
-# all_login
-
-A new Flutter project.
+how to create login and sign in screen in flutter with validator complete program
 
 ## Getting Started
 
